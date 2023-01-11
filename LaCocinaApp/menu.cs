@@ -6,5 +6,33 @@ namespace LaCocinaApp
         {
             InitializeComponent();
         }
+
+        private void menu_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cmdclientes_Click(object sender, EventArgs e)
+        {
+            /*GestionClientes ventanaGestionClientes = new GestionClientes();
+            ventanaGestionClientes.ShowDialog();*/
+            AbrirFormEnPanel(new GestionClientes());
+
+        }
+
+
+
+        private void AbrirFormEnPanel(object formhija)
+        {
+            if (this.panelContenedor.Controls.Count > 0)
+                this.panelContenedor.Controls.RemoveAt(0);
+            Form fh = formhija as Form;
+            fh.TopLevel = false;
+            fh.Dock = DockStyle.Fill;
+            this.panelContenedor.Controls.Add(fh);
+            this.panelContenedor.Tag = fh;
+            fh.Show();
+
+        }
     }
 }
