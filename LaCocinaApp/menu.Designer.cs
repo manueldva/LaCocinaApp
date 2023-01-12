@@ -44,6 +44,7 @@
             // 
             // panelContenedor
             // 
+            this.panelContenedor.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panelContenedor.Location = new System.Drawing.Point(93, 12);
             this.panelContenedor.Name = "panelContenedor";
             this.panelContenedor.Size = new System.Drawing.Size(705, 426);

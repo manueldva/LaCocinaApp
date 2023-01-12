@@ -16,3 +16,21 @@ C:\LaCocinaApp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.pdb
 C:\LaCocinaApp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.genruntimeconfig.cache
 C:\LaCocinaApp\LaCocinaApp\obj\Debug\net6.0-windows\ref\LaCocinaApp.dll
 C:\LaCocinaApp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.GestionClientes.resources
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\bin\Debug\net6.0-windows\LaCocinaApp.exe
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\bin\Debug\net6.0-windows\LaCocinaApp.deps.json
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\bin\Debug\net6.0-windows\LaCocinaApp.runtimeconfig.json
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\bin\Debug\net6.0-windows\LaCocinaApp.dll
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\bin\Debug\net6.0-windows\LaCocinaApp.pdb
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.csproj.AssemblyReference.cache
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.GestionClientes.resources
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.menu.resources
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.csproj.GenerateResource.cache
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.AssemblyInfoInputs.cache
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.AssemblyInfo.cs
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.csproj.CoreCompileInputs.cache
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.dll
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\refint\LaCocinaApp.dll
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.pdb
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.genruntimeconfig.cache
+D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\ref\LaCocinaApp.dll

@@ -9,7 +9,8 @@ namespace LaCocinaApp
 
         private void menu_Load(object sender, EventArgs e)
         {
-
+            panelContenedor.Width = this.Width - 120;
+            panelContenedor.Height = this.Height -65;
         }
 
         private void cmdclientes_Click(object sender, EventArgs e)

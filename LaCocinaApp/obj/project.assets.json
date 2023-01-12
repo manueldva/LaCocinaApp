@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mavila\\.nuget\\packages\\": {},
+    "C:\\Users\\manudva\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LaCocinaApp\\LaCocinaApp\\LaCocinaApp.csproj",
+      "projectUniqueName": "D:\\proyecto Santy\\lacocinaapp\\LaCocinaApp\\LaCocinaApp.csproj",
       "projectName": "LaCocinaApp",
-      "projectPath": "C:\\LaCocinaApp\\LaCocinaApp\\LaCocinaApp.csproj",
-      "packagesPath": "C:\\Users\\mavila\\.nuget\\packages\\",
-      "outputPath": "C:\\LaCocinaApp\\LaCocinaApp\\obj\\",
+      "projectPath": "D:\\proyecto Santy\\lacocinaapp\\LaCocinaApp\\LaCocinaApp.csproj",
+      "packagesPath": "C:\\Users\\manudva\\.nuget\\packages\\",
+      "outputPath": "D:\\proyecto Santy\\lacocinaapp\\LaCocinaApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\mavila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\manudva\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
