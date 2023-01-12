@@ -901,11 +901,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cocina\\CursoProgramacion\\LaCocina.csproj",
+      "projectUniqueName": "C:\\lacocinaapp\\ejemplo2\\CursoProgramacion\\LaCocina.csproj",
       "projectName": "LaCocina",
-      "projectPath": "C:\\cocina\\CursoProgramacion\\LaCocina.csproj",
+      "projectPath": "C:\\lacocinaapp\\ejemplo2\\CursoProgramacion\\LaCocina.csproj",
       "packagesPath": "C:\\Users\\mavila\\.nuget\\packages\\",
-      "outputPath": "C:\\cocina\\CursoProgramacion\\obj\\",
+      "outputPath": "C:\\lacocinaapp\\ejemplo2\\CursoProgramacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

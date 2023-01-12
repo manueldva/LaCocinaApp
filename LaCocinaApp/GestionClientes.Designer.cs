@@ -51,6 +51,7 @@
             this.Name = "GestionClientes";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "GestionClientes";
+            this.Load += new System.EventHandler(this.GestionClientes_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

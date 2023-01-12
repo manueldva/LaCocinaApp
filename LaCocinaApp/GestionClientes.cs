@@ -16,5 +16,11 @@ namespace LaCocinaApp
         {
             InitializeComponent();
         }
+
+        private void GestionClientes_Load(object sender, EventArgs e)
+        {
+            label1.Top = 100;
+            label1.Left = 100;
+        }
     }
 }

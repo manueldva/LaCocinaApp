@@ -1,3 +1,6 @@
+using System.Windows.Forms;
+using System;
+
 namespace LaCocinaApp
 {
     public partial class menu : Form
@@ -23,11 +26,11 @@ namespace LaCocinaApp
 
 
 
-        private void AbrirFormEnPanel(object formhija)
+        private void AbrirFormEnPanel(object formhijo)
         {
             if (this.panelContenedor.Controls.Count > 0)
                 this.panelContenedor.Controls.RemoveAt(0);
-            Form fh = formhija as Form;
+            Form fh = formhijo as Form;
             fh.TopLevel = false;
             fh.Dock = DockStyle.Fill;
             this.panelContenedor.Controls.Add(fh);
@@ -35,5 +38,6 @@ namespace LaCocinaApp
             fh.Show();
 
         }
+
     }
 }

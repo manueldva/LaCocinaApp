@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SpD8bO5YiOl8Mfa6Kj8Icc82WFZ8QaXX3rvARX5ShfOpL6+s/+o7OvaGvN5oas6+Di5OmcqO1jTp0Leq7SgMRQ==",
+  "dgSpecHash": "d7AcvvUUZ0vWJJnqXvi/h+BS+mtfyCvAyIkZXgAduIGSHSQsuEperDNN0V0pLFuaYCUwKZuoK5k42QMZzg/RCw==",
   "success": true,
-  "projectFilePath": "C:\\cocina\\CursoProgramacion\\LaCocina.csproj",
+  "projectFilePath": "C:\\lacocinaapp\\ejemplo2\\CursoProgramacion\\LaCocina.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mavila\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\mavila\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
