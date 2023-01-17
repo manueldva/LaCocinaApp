@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "n6mklYvMkxw37wmFrqrS2qzUkI7yCxvxZfc5JqoJSqK0Xz9u3gmnWZGBWjm17YKa4SvW71NzCzXXDkakcCySSA==",
+  "dgSpecHash": "RPGS9/aShkks0zaSrq/1BJKRloC2b0gGDsigzhtohG0tva4zAEQBCXtePFTEzl4bZEWaMzDaOBNFq1ZH+86gxw==",
   "success": true,
   "projectFilePath": "C:\\lacocinaapp\\LaCocinaApp\\LaCocinaApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mavila\\.nuget\\packages\\fontawesome.sharp\\6.2.1\\fontawesome.sharp.6.2.1.nupkg.sha512",
+    "C:\\Users\\mavila\\.nuget\\packages\\fontawesome.sharp.pro\\6.2.1\\fontawesome.sharp.pro.6.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

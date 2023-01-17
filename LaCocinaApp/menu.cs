@@ -24,10 +24,7 @@ namespace LaCocinaApp
         private void btnsalir_Click(object sender, EventArgs e)
         {
 
-            if (MessageBox.Show("¿Desea Salir?", "Mensaje", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
-            {
-                this.Close();
-            }
+            
         }
 
         private void btnClientes_Click(object sender, EventArgs e)
@@ -42,6 +39,27 @@ namespace LaCocinaApp
         private void Frm_Closing(object sender, FormClosingEventArgs e)
         {
             this.Show();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("¿Desea Salir?", "Mensaje", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                this.Close();
+            }
+        }
+
+        private void btnClientes_Click_1(object sender, EventArgs e)
+        {
+            frmClientes FormularioVista = new frmClientes();
+            this.Hide();
+            FormularioVista.Show();
+            FormularioVista.FormClosing += Frm_Closing;
         }
     }
 }

@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\lacocinaapp\\LaCocinaApp\\LaCocinaApp.csproj",
         "projectName": "LaCocinaApp",
         "projectPath": "C:\\lacocinaapp\\LaCocinaApp\\LaCocinaApp.csproj",
-        "packagesPath": "C:\\Users\\kiu\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\mavila\\.nuget\\packages\\",
         "outputPath": "C:\\lacocinaapp\\LaCocinaApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mavila\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,6 +44,12 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "FontAwesome.Sharp.Pro": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

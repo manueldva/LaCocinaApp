@@ -202,3 +202,71 @@ C:\Users\kiu\Downloads\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.c
 C:\Users\kiu\Downloads\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.CopyComplete
 C:\Users\kiu\Downloads\SistemaInventario\ProyectoVenta\obj\Debug\CE Inventario Libre.exe
 C:\Users\kiu\Downloads\SistemaInventario\ProyectoVenta\obj\Debug\CE Inventario Libre.pdb
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\BDINVENTARIO.db
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\CE Inventario Libre.exe.config
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\CE Inventario Libre.exe
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\CE Inventario Libre.pdb
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\BarcodeLib.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\BouncyCastle.Crypto.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\ClosedXML.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\DocumentFormat.OpenXml.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\EntityFramework.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\EntityFramework.SqlServer.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\ExcelNumberFormat.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\FontAwesome.Sharp.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\itextsharp.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\itextsharp.xmlworker.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\NPOI.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\NPOI.OOXML.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\NPOI.OpenXml4Net.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\System.Data.SQLite.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\System.Data.SQLite.EF6.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\System.Data.SQLite.Linq.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\System.IO.Packaging.dll
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\ClosedXML.pdb
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\ClosedXML.xml
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\DocumentFormat.OpenXml.xml
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\EntityFramework.xml
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\EntityFramework.SqlServer.xml
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\ExcelNumberFormat.xml
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\itextsharp.xml
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\NPOI.xml
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\NPOI.OOXML.xml
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\bin\Debug\System.Data.SQLite.xml
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.AssemblyReference.cache
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.SuggestedBindingRedirects.cache
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Clientes.frmClientes.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Configuracion.frmConfiguracion.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Entradas.frmDetalleEntrada.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Entradas.frmListarEntradas.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Entradas.frmRegistrarEntrada.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.frmLogin.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Inventario.frmInventario.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Permisos.frmPermisos.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Productos.frmCargarProducto.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.frmRegistrarProducto.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Inicio.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Proveedores.frmProveedores.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Salidas.frmDetalleSalida.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Salidas.frmListarSalidas.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Salidas.frmRegistrarSalida.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Usuarios.frmUsuarios.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.IConfiguracion.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.IEntradas.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.IProductos.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.ISalidas.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdAcercade.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdClientes.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdProductos.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdProveedores.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdSalidaExitosa.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.Properties.Resources.resources
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.GenerateResource.cache
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.CoreCompileInputs.cache
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.CopyComplete
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\CE Inventario Libre.exe
+C:\lacocinaapp\SistemaInventario3\ProyectoVenta\obj\Debug\CE Inventario Libre.pdb

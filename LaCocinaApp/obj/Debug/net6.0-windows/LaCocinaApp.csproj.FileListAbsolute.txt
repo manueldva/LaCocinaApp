@@ -34,3 +34,7 @@ D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.p
 D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.genruntimeconfig.cache
 D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\ref\LaCocinaApp.dll
 C:\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.frmClientes.resources
+C:\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.Properties.Resources.resources
+C:\lacocinaapp\LaCocinaApp\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\lacocinaapp\LaCocinaApp\bin\Debug\net6.0-windows\FontAwesome.Sharp.Pro.dll
+C:\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.csproj.CopyComplete

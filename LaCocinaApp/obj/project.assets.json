@@ -1,14 +1,75 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "FontAwesome.Sharp/6.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/FontAwesome.Sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/FontAwesome.Sharp.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App"
+        ]
+      },
+      "FontAwesome.Sharp.Pro/6.2.1": {
+        "type": "package",
+        "dependencies": {
+          "FontAwesome.Sharp": "6.2.1"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/FontAwesome.Sharp.Pro.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/FontAwesome.Sharp.Pro.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "FontAwesome.Sharp/6.2.1": {
+      "sha512": "eYpj85+70pOjV4cOfB/Et/Rj6m56WRlCKU2G4ivWCohb7sF7DwHz/3jy8XIWp9utgb/R2Pqm+HsaBwV33FBNbg==",
+      "type": "package",
+      "path": "fontawesome.sharp/6.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fontawesome.sharp.6.2.1.nupkg.sha512",
+        "fontawesome.sharp.nuspec",
+        "lib/net472/FontAwesome.Sharp.dll",
+        "lib/net48/FontAwesome.Sharp.dll",
+        "lib/net6.0-windows7.0/FontAwesome.Sharp.dll",
+        "lib/netcoreapp3.1/FontAwesome.Sharp.dll"
+      ]
+    },
+    "FontAwesome.Sharp.Pro/6.2.1": {
+      "sha512": "NKaPjEMthqHpzy2iQ2O1m3fXC+Tj4Gd0zAzWmGhqnXrwNFbWE+QVlEmY3CVeqk1rDjUWmSaBpcKj4P0hwy0yhA==",
+      "type": "package",
+      "path": "fontawesome.sharp.pro/6.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fontawesome.sharp.pro.6.2.1.nupkg.sha512",
+        "fontawesome.sharp.pro.nuspec",
+        "lib/net472/FontAwesome.Sharp.Pro.dll",
+        "lib/net48/FontAwesome.Sharp.Pro.dll",
+        "lib/net6.0-windows7.0/FontAwesome.Sharp.Pro.dll",
+        "lib/netcoreapp3.1/FontAwesome.Sharp.Pro.dll"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "FontAwesome.Sharp.Pro >= 6.2.1"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\kiu\\.nuget\\packages\\": {},
+    "C:\\Users\\mavila\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -17,14 +78,14 @@
       "projectUniqueName": "C:\\lacocinaapp\\LaCocinaApp\\LaCocinaApp.csproj",
       "projectName": "LaCocinaApp",
       "projectPath": "C:\\lacocinaapp\\LaCocinaApp\\LaCocinaApp.csproj",
-      "packagesPath": "C:\\Users\\kiu\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\mavila\\.nuget\\packages\\",
       "outputPath": "C:\\lacocinaapp\\LaCocinaApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\kiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mavila\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -51,6 +112,12 @@
     "frameworks": {
       "net6.0-windows7.0": {
         "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "FontAwesome.Sharp.Pro": {
+            "target": "Package",
+            "version": "[6.2.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
