@@ -28,40 +28,31 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.cmdclientes = new System.Windows.Forms.Button();
-            this.panelContenedor = new System.Windows.Forms.Panel();
+            this.btnsalir = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // cmdclientes
+            // btnsalir
             // 
-            this.cmdclientes.Location = new System.Drawing.Point(-1, 1);
-            this.cmdclientes.Name = "cmdclientes";
-            this.cmdclientes.Size = new System.Drawing.Size(88, 59);
-            this.cmdclientes.TabIndex = 0;
-            this.cmdclientes.Text = "Gestion Clientes";
-            this.cmdclientes.UseVisualStyleBackColor = true;
-            this.cmdclientes.Click += new System.EventHandler(this.cmdclientes_Click);
-            // 
-            // panelContenedor
-            // 
-            this.panelContenedor.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panelContenedor.Location = new System.Drawing.Point(93, 12);
-            this.panelContenedor.Name = "panelContenedor";
-            this.panelContenedor.Size = new System.Drawing.Size(705, 426);
-            this.panelContenedor.TabIndex = 1;
+            this.btnsalir.Location = new System.Drawing.Point(969, 12);
+            this.btnsalir.Name = "btnsalir";
+            this.btnsalir.Size = new System.Drawing.Size(83, 79);
+            this.btnsalir.TabIndex = 0;
+            this.btnsalir.Text = "Salir";
+            this.btnsalir.UseVisualStyleBackColor = true;
+            this.btnsalir.Click += new System.EventHandler(this.btnsalir_Click);
             // 
             // menu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.panelContenedor);
-            this.Controls.Add(this.cmdclientes);
+            this.ClientSize = new System.Drawing.Size(1064, 654);
+            this.ControlBox = false;
+            this.Controls.Add(this.btnsalir);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "menu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.menu_Load);
             this.ResumeLayout(false);
 
@@ -69,7 +60,6 @@
 
         #endregion
 
-        private Button cmdclientes;
-        private Panel panelContenedor;
+        private Button btnsalir;
     }
 }
