@@ -15,7 +15,6 @@ C:\LaCocinaApp\LaCocinaApp\obj\Debug\net6.0-windows\refint\LaCocinaApp.dll
 C:\LaCocinaApp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.pdb
 C:\LaCocinaApp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.genruntimeconfig.cache
 C:\LaCocinaApp\LaCocinaApp\obj\Debug\net6.0-windows\ref\LaCocinaApp.dll
-C:\LaCocinaApp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.GestionClientes.resources
 D:\proyecto Santy\lacocinaapp\LaCocinaApp\bin\Debug\net6.0-windows\LaCocinaApp.exe
 D:\proyecto Santy\lacocinaapp\LaCocinaApp\bin\Debug\net6.0-windows\LaCocinaApp.deps.json
 D:\proyecto Santy\lacocinaapp\LaCocinaApp\bin\Debug\net6.0-windows\LaCocinaApp.runtimeconfig.json
@@ -34,3 +33,4 @@ D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\refint\LaCoci
 D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.pdb
 D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.genruntimeconfig.cache
 D:\proyecto Santy\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\ref\LaCocinaApp.dll
+C:\lacocinaapp\LaCocinaApp\obj\Debug\net6.0-windows\LaCocinaApp.frmClientes.resources

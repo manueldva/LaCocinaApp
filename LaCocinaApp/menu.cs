@@ -29,5 +29,19 @@ namespace LaCocinaApp
                 this.Close();
             }
         }
+
+        private void btnClientes_Click(object sender, EventArgs e)
+        {
+            frmClientes FormularioVista = new frmClientes();
+            this.Hide();
+            FormularioVista.Show();
+            FormularioVista.FormClosing += Frm_Closing;
+        }
+
+
+        private void Frm_Closing(object sender, FormClosingEventArgs e)
+        {
+            this.Show();
+        }
     }
 }

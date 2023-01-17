@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace LaCocinaApp
 {
-    public partial class GestionClientes : Form
+    public partial class frmClientes : Form
     {
-        public GestionClientes()
+        public frmClientes()
         {
             InitializeComponent();
         }
@@ -21,6 +21,11 @@ namespace LaCocinaApp
         {
             label1.Top = 100;
             label1.Left = 100;
+        }
+
+        private void btnsalir_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
